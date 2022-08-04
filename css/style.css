@@ -1,0 +1,98 @@
+﻿
+body {
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+
+}
+.margin {
+	margin:0 auto;
+}
+.no-margin {
+	margin:0px;
+}
+.no-padding {
+	padding:0px;
+}
+nav {
+	height:96px;
+}
+.navbar-brand img {
+	position:absolute;
+	top:0px;
+	left:12px; 
+	width:200px;
+	z-index:100px;
+}
+
+.site-footer {
+    background-color: #014179;
+    color: white;
+    height: 60px;
+	padding-top:5px;
+}
+
+.wrapper {
+	width:300px;
+	margin:0 auto;
+	background-color:#FFF;
+	border-right:black 2px solid;
+	border-left:black 2px solid;
+}
+
+
+.header {
+	background-color:#F8CFCF;
+	height:22px;
+}
+.header P {
+	font-size:10px;
+	padding-top:5px;
+}
+.vis-cont {
+	height:50px;
+	background-color:#75BAE9;
+}
+.vis-cont p {
+	font-size:24px;
+	padding-top:10px;
+}
+.ndc {
+	margin-top:18px;
+}
+.barcode {
+	margin-top:18px;
+	margin-bottom:10px;
+}
+.footer-cont {
+	float:left;
+	margin-top:5px;
+	margin-left:5px;
+}
+.footer-cont p {
+	margin-left:10px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-right:0px;
+}
+
+.spon-cont {
+	margin-top:5px;
+	margin-left:5px;
+}
+.spon-cont p {
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-left:10px;
+}
+.spon-cont img {
+	margin-left:20px;
+	margin-bottom:5px;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    padding: 15px 71px;
+}

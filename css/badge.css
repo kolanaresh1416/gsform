@@ -1,0 +1,90 @@
+
+body {
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	background-color:#000;
+}
+.margin {
+	margin:0 auto;
+}
+.no-margin {
+	margin:0px;
+}
+.no-padding {
+	padding:0px;
+}/* CSS Document */
+
+.site-footer {
+	background-color:#014179;
+	color:white;
+	height:30px;
+	
+}
+
+
+.wrapper {
+	width:300px;
+	margin:0 auto;
+	background-color:#FFF;
+	border-right:black 2px solid;
+	border-left:black 2px solid;
+}
+
+.navbar-brand img {
+	margin-left:70px;
+}
+
+.header {
+	background-color:#F8CFCF;
+	height:22px;
+}
+.header P {
+	font-size:9px;
+	padding-top:6px;
+}
+.vis-cont {
+	height:50px;
+	background-color:#75BAE9;
+}
+.vis-cont p {
+	font-size:24px;
+	padding-top:10px;
+	color:#FFF;
+}
+.ndc {
+	margin-top:18px;
+}
+.barcode {
+	margin-top:18px;
+	margin-bottom:10px;
+}
+.footer-cont {
+    float: left;
+    margin-left: 14px;
+}
+.footer-cont p {
+	margin-left:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-right:0px;
+}
+.footer-cont img {
+	margin-left:15px;
+	margin-top:3px;
+}
+
+.spon-cont {
+	margin-left:5px;
+}
+.spon-cont p {
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-left:10px;
+}
+.spon-cont img {
+	margin-left:15px;
+	margin-bottom:5px;
+}
+/* CSS Document */
+
